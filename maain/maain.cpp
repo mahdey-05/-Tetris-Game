@@ -107,11 +107,11 @@ int main(void)
         }
         if (ball.x < 0)
         {
-            winnerText = "Mahdi Wins!";
+            winnerText = "Player One Wins!";
         }
         if (ball.x > GetScreenWidth()) 
         {
-            winnerText = "Obada Wins!";
+            winnerText = "Player Two Wins!";
         }
         if (winnerText && IsKeyPressed(KEY_SPACE))
         {
