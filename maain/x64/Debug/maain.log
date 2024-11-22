@@ -1,0 +1,10 @@
+﻿  maain.cpp
+C:\Users\mahde\source\repos\maain\maain\maain.cpp(46,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahde\source\repos\maain\maain\maain.cpp(52,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahde\source\repos\maain\maain\maain.cpp(53,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahde\source\repos\maain\maain\maain.cpp(71,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahde\source\repos\maain\maain\maain.cpp(118,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahde\source\repos\maain\maain\maain.cpp(119,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  maain.vcxproj -> C:\Users\mahde\source\repos\maain\x64\Debug\maain.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
